@@ -12,6 +12,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "May we have a trade?",
 
+    "innerColor": [255, 255, 255],
+    "outerColor": [21, 108, 49],
     "uniqueName": "The Grasslands",
     "cities": ["Grasslander City","Greentown","Fernville"],
   }
