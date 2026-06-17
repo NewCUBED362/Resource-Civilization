@@ -5,12 +5,14 @@
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Tundra","Desert","Hill"],
 		"techRequired": "Gathering and Hunting",
 		"turnsToBuild": 5,
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 	},
 	{
 		"name": "Hunting Spot",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Tundra","Desert","Hill"],
 		"techRequired": "Gathering and Hunting",
 		"turnsToBuild": 5,
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 	},
 	// Misc
 	{
