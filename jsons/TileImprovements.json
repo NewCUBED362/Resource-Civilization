@@ -1,4 +1,14 @@
 [
+	// Stone age
+	{
+		"name": "Gathering Spot",
+		"techRequired": "Gathering and Hunting",
+	},
+	{
+		"name": "Hunting Spot",
+		"techRequired": "Gathering and Hunting",
+	},
+	// Misc
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
