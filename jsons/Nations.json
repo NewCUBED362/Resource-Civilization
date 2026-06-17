@@ -55,6 +55,8 @@
     "innerColor": [238,201,9],
     "outerColor": [53,0,87],
     "uniqueName": "Epirovos",
-    "cities": ["Thermosia"],
+    "cities": ["Thermosia","Pydnarnassus","Phocae","Latinth","Scidrasa","Histrurion",
+	           "Naxurias","Mallissos","Zakrarnae","Andrenion","Elatagra","Phaistolgi",
+	           "Hieryras","Assus","Psocaea","Philurii"],
   }
 ]
