@@ -12,8 +12,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "May we have a trade?",
 
-    "innerColor": [255, 255, 255],
-    "outerColor": [21, 108, 49],
+    "innerColor": [238,201,9],
+    "outerColor": [53,0,87],
     "uniqueName": "Vesparia",
     "cities": ["Durolitum","Amiternum","Corisopitum","Salodurum","Scallabis","Aquae Helveticae",
 		       "Resapha","Bergula","Castrum Deutonis","Bergomum","Abusina","Novaesium",
