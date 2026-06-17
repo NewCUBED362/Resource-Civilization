@@ -11,6 +11,7 @@
 		"name": "Stone",
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
+		"revealedBy": "Stone Knapping",
 		"improvedBy": ["Gathering Spot"],
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
