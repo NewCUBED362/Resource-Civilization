@@ -1,0 +1,18 @@
+[
+[
+	{
+		"columnNumber": 0,
+		"era": "Stone age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Gathering and Hunting",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+]
