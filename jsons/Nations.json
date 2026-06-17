@@ -2,6 +2,7 @@
   {
     "name": "Grasslanders",
     "leaderName": "Emma Grasslander",
+		"startBias": ["Grassland"],
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
@@ -16,5 +17,62 @@
     "outerColor": [21, 108, 49],
     "uniqueName": "The Grasslands",
     "cities": ["Grasslander City","Greentown","Fernville"],
+  },
+  {
+    "name": "Tundras",
+    "leaderName": "Bill Tundra",
+		"startBias": ["Tundra"],
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "You will pay for this.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Bill, leader of the Tundra people.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [255, 255, 255],
+    "outerColor": [21, 108, 49],
+    "uniqueName": "The Tundra",
+    "cities": ["Tundra City","Snowtown","Iceburg"],
+  },
+  {
+    "name": "Junglers",
+    "leaderName": "Catherine Jungle",
+		"startBias": ["Jungle"],
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "You will pay for this.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Catherine, leader of the Jungle people.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [255, 255, 255],
+    "outerColor": [21, 108, 49],
+    "uniqueName": "The Jungle",
+    "cities": ["Jungle City","Raintown","Marshton"],
+  },
+  {
+    "name": "Desertites",
+    "leaderName": "Yusuf Desert",
+		"startBias": ["Desert"],
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "You will pay for this.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Yusuf, leader of the Desert people.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [255, 255, 255],
+    "outerColor": [21, 108, 49],
+    "uniqueName": "The Desert",
+    "cities": ["Desert City","Sandtown","Heatvale"],
   }
 ]
