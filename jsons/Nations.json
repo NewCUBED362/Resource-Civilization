@@ -35,6 +35,8 @@
     "innerColor": [238,201,9],
     "outerColor": [53,0,87],
     "uniqueName": "Shunxi",
-    "cities": ["Guiliang"],
+    "cities": ["Guiliang","Shihua","Guiyuan","Xucheng","Tengyuan","Tongcheng","Hengchun",
+	           "Qigong","Quantong","Changwei","Yueshu","Tangmen","Zhaohua","Shiramay",
+	           "Tengwei","Xinhou"],
   }
 ]
