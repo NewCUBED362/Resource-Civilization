@@ -32,8 +32,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "May we have a trade?",
 
-    "innerColor": [238,201,9],
-    "outerColor": [53,0,87],
+    "innerColor": [255, 255, 255],
+    "outerColor": [9, 112, 84],
     "uniqueName": "Shunxi",
     "cities": ["Guiliang","Shihua","Guiyuan","Xucheng","Tengyuan","Tongcheng","Hengchun",
 	           "Qigong","Quantong","Changwei","Yueshu","Tangmen","Zhaohua","Shiramay",
@@ -52,8 +52,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "May we have a trade?",
 
-    "innerColor": [238,201,9],
-    "outerColor": [53,0,87],
+    "innerColor": [65, 141, 254],
+    "outerColor": [255, 255, 255],
     "uniqueName": "Epirovos",
     "cities": ["Thermosia","Pydnarnassus","Phocae","Latinth","Scidrasa","Histrurion",
 	           "Naxurias","Mallissos","Zakrarnae","Andrenion","Elatagra","Phaistolgi",
@@ -72,8 +72,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "May we have a trade?",
 
-    "innerColor": [238,201,9],
-    "outerColor": [53,0,87],
+    "innerColor": [83, 0, 208],
+    "outerColor": [255, 252, 3],
     "uniqueName": "Khemeru",
     "cities": ["Qisemu","Behre","Herifu","Avsairuna","Kunuris","Khasbusouk","Debysma",
 	           "Kispozum","Edvapata","Hebsou","Khesiset","Meddjurma","Tarsamunein",
