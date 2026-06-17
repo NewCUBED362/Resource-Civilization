@@ -15,7 +15,9 @@
 
     "innerColor": [255, 255, 255],
     "outerColor": [21, 108, 49],
-    "uniqueName": "The Grasslands",
-    "cities": ["Durolitum","Greentown","Fernville"],
+    "uniqueName": "Vesparia",
+    "cities": ["Durolitum","Amiternum","Corisopitum","Salodurum","Scallabis","Aquae Helveticae",
+		       "Resapha","Bergula","Castrum Deutonis","Bergomum","Abusina","Novaesium",
+		       "Bona","Ostium","Salinae"],
   }
 ]
