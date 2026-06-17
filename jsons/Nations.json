@@ -2,7 +2,7 @@
   {
     "name": "Grasslanders",
     "leaderName": "Emma Grasslander",
-		"startBias": ["Grassland"],
+	"startBias": ["Grassland"],
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
@@ -21,7 +21,7 @@
   {
     "name": "Tundras",
     "leaderName": "Bill Tundra",
-		"startBias": ["Tundra"],
+	"startBias": ["Tundra"],
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
@@ -40,7 +40,7 @@
   {
     "name": "Junglers",
     "leaderName": "Catherine Jungle",
-		"startBias": ["Jungle"],
+	"startBias": ["Jungle"],
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
@@ -59,7 +59,7 @@
   {
     "name": "Desertites",
     "leaderName": "Yusuf Desert",
-		"startBias": ["Desert"],
+	"startBias": ["Desert"],
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
