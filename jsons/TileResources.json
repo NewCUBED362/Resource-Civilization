@@ -1,9 +1,10 @@
 [
   {
     "name": "Sticks",
-    "terrainsCanBeFoundOn": ["Grassland","Plains","Tundra"],
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Forest"],
     "improvedBy": ["Gathering Spot"],
     "resourceType": "Strategic",
-    "uniques": ["Generated on every [13] tiles <in [Forest] tiles>"],
+    "uniques": ["Generated on every [13] tiles <in [Forest] tiles>",
+                "Doesn't generate naturally <in tiles without [Forest]>"],
   }
 ]
