@@ -75,6 +75,8 @@
     "innerColor": [238,201,9],
     "outerColor": [53,0,87],
     "uniqueName": "Khemeru",
-    "cities": ["Qisemu"],
+    "cities": ["Qisemu","Behre","Herifu","Avsairuna","Kunuris","Khasbusouk","Debysma",
+	           "Kispozum","Edvapata","Hebsou","Khesiset","Meddjurma","Tarsamunein",
+	           "Geskhesut","Nadjuremu","Qipothus"],
   }
 ]
