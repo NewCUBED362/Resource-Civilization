@@ -3,10 +3,12 @@
 	{
 		"name": "Gathering Spot",
 		"techRequired": "Gathering and Hunting",
+		"turnsToBuild": 5,
 	},
 	{
 		"name": "Hunting Spot",
 		"techRequired": "Gathering and Hunting",
+		"turnsToBuild": 5,
 	},
 	// Misc
 	{
