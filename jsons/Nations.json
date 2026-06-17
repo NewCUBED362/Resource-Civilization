@@ -60,13 +60,13 @@
 	           "Hieryras","Assus","Psocaea","Philurii"],
   },
   {
-    "name": "Dertakha",
+    "name": "Khemeru",
     "leaderName": "Iliana",
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
-    "introduction": "Hello, stranger. I am Iliana, leader of the Grasslands people.",
+    "introduction": "Hello, stranger. I am Iliana, leader of Khemeru.",
 
     "neutralHello": "Hello.",
     "hateHello": "What do you want?",
@@ -74,7 +74,7 @@
 
     "innerColor": [238,201,9],
     "outerColor": [53,0,87],
-    "uniqueName": "Dertakha",
+    "uniqueName": "Khemeru",
     "cities": ["Qisemu"],
   }
 ]
