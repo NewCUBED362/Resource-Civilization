@@ -4,5 +4,6 @@
     "terrainsCanBeFoundOn": ["Grassland","Plains","Tundra"],
     "improvedBy": ["Gathering Spot"],
     "resourceType": "Strategic",
+    "uniques": ["Generated on every [13] tiles <in [Forest] tiles>"],
   }
 ]
