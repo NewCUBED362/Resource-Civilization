@@ -33,7 +33,7 @@
     "tradeRequest": "May we have a trade?",
 
     "innerColor": [255, 255, 255],
-    "outerColor": [21, 108, 49],
+    "outerColor": [174, 174, 174],
     "uniqueName": "The Tundra",
     "cities": ["Tundra City","Snowtown","Iceburg"],
   },
@@ -52,7 +52,7 @@
     "tradeRequest": "May we have a trade?",
 
     "innerColor": [255, 255, 255],
-    "outerColor": [21, 108, 49],
+    "outerColor": [97, 191, 34],
     "uniqueName": "The Jungle",
     "cities": ["Jungle City","Raintown","Marshton"],
   },
@@ -71,7 +71,7 @@
     "tradeRequest": "May we have a trade?",
 
     "innerColor": [255, 255, 255],
-    "outerColor": [21, 108, 49],
+    "outerColor": [134, 114, 2],
     "uniqueName": "The Desert",
     "cities": ["Desert City","Sandtown","Heatvale"],
   }
