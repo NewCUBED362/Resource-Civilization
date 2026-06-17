@@ -1,6 +1,8 @@
 [
   {
     "name": "Sticks",
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Tundra"],
+    "improvedBy": ["Gathering Spot"],
     "resourceType": "Strategic",
   }
 ]
