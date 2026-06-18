@@ -1,6 +1,8 @@
 [
   {
     "name": "Stone age",
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 0,
     "startingMilitaryUnit": ["Scout"],
   }
 ]
