@@ -20,12 +20,14 @@
     "cost": 25,
     "movement": 1,
     "strength": 9,
-  }
+  },
   {
     "name": "Warrior",
     "unitType": "Blunt",
     "cost": 40,
     "movement": 1,
     "strength": 15,
+    "uniques": ["Consumes [1] [Sticks]",
+                "Consumes [1] [Stone]"],
   }
 ]
