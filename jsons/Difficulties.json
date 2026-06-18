@@ -1,5 +1,14 @@
 [
   {
+    "name": "Very Easy",
+    "baseHappiness": 12,
+  },
+  {
     "name": "Normal",
+    "baseHappiness": 6,
+  },
+  {
+    "name": "Very Hard",
+    "baseHappiness": 0,
   }
 ]
