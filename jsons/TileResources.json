@@ -10,8 +10,9 @@
   {
     "name": "Berries",
     "terrainsCanBeFoundOn": ["Grassland","Plains"],
+	"improvementStats": {"food": 1},
     "improvedBy": ["Gathering Spot"],
-    "resourceType": "Strategic",
+    "resourceType": "Bonus",
     "uniques": ["Generated on every [13] tiles <in [{Featureless} {Grassland}] tiles>",
                 "Generated on every [13] tiles <in [{Featureless} {Plains}] tiles>"],
   },
