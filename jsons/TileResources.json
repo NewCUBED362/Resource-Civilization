@@ -7,6 +7,14 @@
     "uniques": ["Generated on every [13] tiles <in [Forest] tiles>",
                 "Doesn't generate naturally <in tiles without [Forest]>"],
   },
+  {
+    "name": "Berries",
+    "terrainsCanBeFoundOn": ["Grassland","Plains"],
+    "improvedBy": ["Gathering Spot"],
+    "resourceType": "Strategic",
+    "uniques": ["Generated on every [13] tiles <in [{Featureless} {Grassland}] tiles>",
+                "Generated on every [13] tiles <in [{Featureless} {Plains}] tiles>"],
+  },
 	{
 		"name": "Stone",
 		"resourceType": "Strategic",
