@@ -35,4 +35,25 @@
 			}
 		]
 	},
+	{
+		"columnNumber": 1,
+		"era": "Stone age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Seed Distribution",
+				"row": 3,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"prerequisites": ["Fire"],
+			},
+			{
+				"name": "Slings",
+				"row": 7,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"prerequisites": ["Stone Knapping"],
+			}
+		]
+	},
 ]
