@@ -36,10 +36,10 @@
 		]
 	},
 	{
-		"columnNumber": 1,
+		"columnNumber": 2,
 		"era": "Stone age",
-		"techCost": 20,
-		"buildingCost": 40,
+		"techCost": 30,
+		"buildingCost": 50,
 		"wonderCost": 185,
 		"techs": [
 			{
